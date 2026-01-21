@@ -139,7 +139,7 @@ We welcome contributions from the community! Here's how you can help:
 
 <div align="center">
 
-**Made with ❤️ by [vonssy](https://github.com/vonssy)**
+**Made with ❤️ by [A K H I I ](https://github.com/dopezayn)**
 
 *Thank you for using Haha Wallet BOT! Don't forget to ⭐ star this repository.*
 
